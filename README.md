@@ -1,2 +1,2 @@
 # BlackJack-Jaca-Code
-BlackJack Java Progeam
+BlackJack Java Program
